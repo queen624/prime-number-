@@ -1,0 +1,19 @@
+Public class main{
+Public static void(strings[]args){
+Int num=25;
+Boolean flag=false;
+For(int i=2;i<=num/2;i+t)
+{
+If(num % i==0)
+{
+  Flag=true;
+  Break;
+}
+}
+if(!flag)
+   System.out.println(num + "is prime no.");
+Else
+   System.out.println(num + "is not a prime no.");
+}
+}
+   
